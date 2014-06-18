@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/ugrad/wde7/!svn/ver/78/application/AberFighter/libs/cocos2d/Support
+END
+CCArray.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/ugrad/wde7/!svn/ver/78/application/AberFighter/libs/cocos2d/Support/CCArray.m
+END
+uthash.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/ugrad/wde7/!svn/ver/78/application/AberFighter/libs/cocos2d/Support/uthash.h
+END
+TransformUtils.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/ugrad/wde7/!svn/ver/78/application/AberFighter/libs/cocos2d/Support/TransformUtils.h
+END
+ESRenderer.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/ugrad/wde7/!svn/ver/78/application/AberFighter/libs/cocos2d/Support/ESRenderer.h
+END
+CCProfiling.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/ugrad/wde7/!svn/ver/78/application/AberFighter/libs/cocos2d/Support/CCProfiling.h
+END
+CGPointExtension.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/ugrad/wde7/!svn/ver/78/application/AberFighter/libs/cocos2d/Support/CGPointExtension.h
+END
+TransformUtils.m
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/ugrad/wde7/!svn/ver/78/application/AberFighter/libs/cocos2d/Support/TransformUtils.m
+END
+TGAlib.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/ugrad/wde7/!svn/ver/78/application/AberFighter/libs/cocos2d/Support/TGAlib.h
+END
+EAGLView.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/ugrad/wde7/!svn/ver/78/application/AberFighter/libs/cocos2d/Support/EAGLView.h
+END
+CCProfiling.m
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/ugrad/wde7/!svn/ver/78/application/AberFighter/libs/cocos2d/Support/CCProfiling.m
+END
+CGPointExtension.m
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/ugrad/wde7/!svn/ver/78/application/AberFighter/libs/cocos2d/Support/CGPointExtension.m
+END
+CCFileUtils.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/ugrad/wde7/!svn/ver/78/application/AberFighter/libs/cocos2d/Support/CCFileUtils.h
+END
+TGAlib.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/ugrad/wde7/!svn/ver/78/application/AberFighter/libs/cocos2d/Support/TGAlib.m
+END
+EAGLView.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/ugrad/wde7/!svn/ver/78/application/AberFighter/libs/cocos2d/Support/EAGLView.m
+END
+CCFileUtils.m
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/ugrad/wde7/!svn/ver/78/application/AberFighter/libs/cocos2d/Support/CCFileUtils.m
+END
+ES1Renderer.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/ugrad/wde7/!svn/ver/78/application/AberFighter/libs/cocos2d/Support/ES1Renderer.h
+END
+base64.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/ugrad/wde7/!svn/ver/78/application/AberFighter/libs/cocos2d/Support/base64.c
+END
+OpenGL_Internal.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/ugrad/wde7/!svn/ver/78/application/AberFighter/libs/cocos2d/Support/OpenGL_Internal.h
+END
+glu.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/ugrad/wde7/!svn/ver/78/application/AberFighter/libs/cocos2d/Support/glu.c
+END
+ZipUtils.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/ugrad/wde7/!svn/ver/78/application/AberFighter/libs/cocos2d/Support/ZipUtils.h
+END
+ES1Renderer.m
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/ugrad/wde7/!svn/ver/78/application/AberFighter/libs/cocos2d/Support/ES1Renderer.m
+END
+CCArray.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/ugrad/wde7/!svn/ver/78/application/AberFighter/libs/cocos2d/Support/CCArray.h
+END
+base64.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/ugrad/wde7/!svn/ver/78/application/AberFighter/libs/cocos2d/Support/base64.h
+END
+utlist.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/ugrad/wde7/!svn/ver/78/application/AberFighter/libs/cocos2d/Support/utlist.h
+END
+ccCArray.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/ugrad/wde7/!svn/ver/78/application/AberFighter/libs/cocos2d/Support/ccCArray.h
+END
+glu.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/ugrad/wde7/!svn/ver/78/application/AberFighter/libs/cocos2d/Support/glu.h
+END
+ZipUtils.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/ugrad/wde7/!svn/ver/78/application/AberFighter/libs/cocos2d/Support/ZipUtils.m
+END
